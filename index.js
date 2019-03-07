@@ -10,7 +10,7 @@ newHeader.id = "victory"
 // <h1 id="victory"></h1>
 newHeader.innerHTML = "Nathan is the champion!"
 // <h1 id="victory">Nathan is the champion</h1>
-document.body.appendChild()
+document.body.appendChild(newHeader)
 // <body>
 // <h1 id="victory">Nathan is the champion</h1>
 // </body>
